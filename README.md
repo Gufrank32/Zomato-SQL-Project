@@ -18,9 +18,11 @@ This project analyzes Zomato's database using SQL queries to answer specific bus
    - [product](./Zomato_Project_Tables.xlsx)
 2. **Schema Diagram**: Visual representation of the database schema.
    - [Download Schema Diagram](./Zomato_Schema.png)
-3. **Questions and Queries PDF**: Contains the list of questions and their respective SQL queries.
+3. **Questions and Queries PDF**: Contains the list of questions and their respective SQL querie.
    [Zomato-SQL-Project](./ZOMATO%20SQL%20Project-Questions.pdf)
+   [Zomato-SQL-Project](./Zomato_SQL_Project.sql)
 
+   
 ## Credits
 This project was inspired by the tutorial series by Ashutosh Kumar:
 - [Part 1 on YouTube](https://youtu.be/BlN4U7GF704)
